@@ -3,4 +3,4 @@
 “Who’s there?”
 "Git"
 Git who?
-Git This joke over with already
+Git on with the assignment
